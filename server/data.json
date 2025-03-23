@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Index of Economic Freedom: All Country Scores | The Heritage Foundation</title>
+
+    <!-- BASE META -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <!-- SEO -->
+    <meta name="title" content="Index of Economic Freedom: All Country Scores | The Heritage Foundation">
+    <meta name="author" content="The Heritage Foundation">
+    <meta name="description" content="Explore the Index of Economic Freedom to gauge global impacts of liberty and free markets. Discover the powerful link between economic freedom and progress. The 31st edition, once again, illustrates key factors shaping our world's landscape. From @Heritage">
+    <meta name="keywords" content="Index of Economic Freedom, global impact, liberty, free markets, economic freedom, progress, political landscape, economic landscape">
+    <meta name="referrer" content="origin">
+
+    <!-- OG -->
+    <meta property="og:title" content="Index of Economic Freedom: All Country Scores | The Heritage Foundation">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.heritage.org/index/assets/media/meta/index-of-economic-freedom-card_og.png">
+    <meta property="og:url" content="https://www.heritage.org/index">
+    <meta property="og:description" content="Explore the Index of Economic Freedom to gauge global impacts of liberty and free markets. Discover the powerful link between economic freedom and progress. The 31st edition, once again, illustrates key factors shaping our world's landscape. From @Heritage">
+    <meta property="og:site_name" content="Index of Economic Freedom | The Heritage Foundation">
+    <meta property="og:locale" content="en_US">
+    <meta property="fb:app_id" content="380768468969117">
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@heritage">
+    <meta name="twitter:creator" content="@heritage">
+    <meta name="twitter:hashtag" content="EconomicFreedom">
+    <meta name="twitter:title" content="Index of Economic Freedom: All Country Scores | The Heritage Foundation">
+    <meta name="twitter:description" content="Explore the Index of Economic Freedom to gauge global impacts of liberty and free markets. Discover the powerful link between economic freedom and progress. The 31st edition, once again, illustrates key factors shaping our world's landscape. From @Heritage">
+    <meta name="twitter:image" content="https://www.heritage.org/index/assets/media/meta/index-of-economic-freedom-card_twitter.png">
+
+    <!-- FAVICONS -->
+    <link rel="apple-touch-icon" sizes="76x76" href="/index/assets/media/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/index/assets/media/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/index/assets/media/favicon/favicon-16x16.png">
+    <link rel="mask-icon" color="#0093d0" href="/index/assets/media/favicon/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/index/assets/media/favicon/favicon.ico">
+
+    <!-- BOOTSTRAP 4.6 CORE CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <!-- TEMPLATE CSS -->
+    <link href="/index/assets/css/heritage-org_ef.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+
+    <!-- GOOGLE TAG MANAGER -->
+    <script type="e69f1cb2df34007c05554141-text/javascript">
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M69S38');
+    </script>
+    <!-- END GOOGLE TAG MANAGER -->
+
+</head>
+
+<body>
+
+    <!-- GOOGLE TAG MANAGER (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M69S38" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- END GOOGLE TAG MANAGER (noscript) -->
+
+    <!-- NAV OVERLAY -->
+    <div class="overlay"></div>
+    <!-- END NAV OVERLAY -->
+
+    <!-- SIDEBAR -->
+    <nav class="container" id="sidebar">
+
+        <div id="dismiss">
+            <i class="heritage-icon-lightbox_close"></i>
+        </div>
+
+        <div class="components">
+            <div class="row no-gutters align-items-center homelink">
+                <div class="col-auto">
+                    <i class="las la-globe homelink-circle" style="font-size: 30px; line-height: 1.25;"></i>
+                </div>
+                <div class="col" style="line-height: 1.45;">
+                    <a href="/index/index.html">Index of Economic Freedom</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="components">
+            <div class="sidebar-header">
+                <p class="m-0">Menu</p>
+            </div>
+            <ul class="p-0">
+                <li>
+                    <a href="/index/pages/about.html">About the Index</a>
+                </li>
+                <li>
+                    <a href="/index/pages/report.html">Read the Report</a>
+                </li>
+                <li>
+                    <a href="/index/pages/all-country-scores.html" class="active">Explore the Data</a>
+                </li>
+                <li>
+                    <a href="https://static.heritage.org/index/pdf/2025/2025_indexofeconomicfreedom_highlights.pdf" title="Download the Index Highlights" aria-label="Download the Index Highlights" target="_blank" rel="noopener" role="button" download="2025_indexofeconomicfreedom_highlights.pdf">Highlights</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="components" style="border-bottom: none;">
+            <div class="row no-gutters align-items-center homelink mb-0">
+                <div class="col-auto">
+                    <i class="heritage-icon-heritage_bell homelink-circle"></i>
+                </div>
+                <div class="col">
+                    <a href="https://www.heritage.org" target="_blank" rel="noopener"><span>Heritage.org</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="components microsite" style="border-bottom: none;">
+            <ul class="p-0">
+                <li>
+                    <a href="https://www.heritage.org/about-heritage/mission" target="_blank" rel="noopener">About Heritage</a>
+                </li>
+                <li>
+                    <a href="https://www.heritage.org/events" target="_blank" rel="noopener">Events</a>
+                </li>
+                <li>
+                    <a href="https://secured.heritage.org/renew/?utm_source=heritagefoundation&utm_medium=textlink&utm_campaign=donate&utm_content=heritage_org_renew_topnav" target="_blank" rel="noopener">Renew</a>
+                </li>
+                <li>
+                    <a href="https://secured.heritage.org/?utm_source=heritagefoundation&utm_medium=textlink&utm_campaign=donate&utm_content=heritage_org_donate_topnav" target="_blank" rel="noopener">Donate</a>
+                </li>
+                <li>
+                    <a href="https://www.heritage.org/press" target="_blank" rel="noopener">Press</a>
+                </li>
+                <li>
+                    <a href="https://www.heritage.org/contact" target="_blank" rel="noopener">Contact</a>
+                </li>
+            </ul>
+        </div>
+
+    </nav>
+    <!-- END SIDEBAR -->
+
+    <!-- NAVIGATION -->
+    <nav class="navbar sticky-top main-nav p-0">
+
+        <a class="main-nav logo-cell" href="https://www.heritage.org" target="_blank" rel="noopener">
+            <div class="heritage-brand px-4">
+                <i class="heritage-icon-heritage_bell"></i>
+                <span>heritage.org</span>
+            </div>
+        </a>
+
+        <div class="page-title col pl-md-5 px-4">
+            <a href="/index/index.html">Index of Economic Freedom</a>
+        </div>
+
+        <button type="button" id="sidebarCollapse" class="navbar-toggler collapsed main-nav trigger-drawer px-4" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="heritage-hamburger-menu"><i class="heritage-icon-hamburger_menu"></i></span>
+        </button>
+
+    </nav>
+    <!-- END NAVIGATION -->
+
+    <!-- PAGE CONTENT -->
+    <div class="page-content">
+
+        <!-- ALL SCORES SECTION -->
+        <section class="article_dataviz-section my-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+
+                        <!-- HEADER -->
+                        <div class="row mt-4">
+                            <div class="col-12">
+                                <h3 class="index-pageType mb-3">Explore the Data</h3>
+                                <h1 class="index-pageHeader m-0">All Country Scores</h1>
+                            </div>
+                        </div>
+
+                        <!-- HORIZONTAL RULE -->
+                        <div class="row">
+                            <div class="col-12">
+                                <hr class="solid heavy my-2">
+                            </div>
+                        </div>
+
+                        <!-- DATELINE + SOCIALS -->
+                        <div class="row align-items-end justify-content-between">
+
+                            <!-- DATELINE -->
+                            <div class="col-auto d-inline-flex align-items-end justify-content-start my-2">
+                                <h4 id="siteLastUpdated" class="m-0"></h4>
+                            </div>
+
+                            <!-- SOCIALS -->
+                            <div class="col-auto d-inline-flex align-items-center justify-content-end my-2" style="gap: 20px">
+                                <button type="button" class="btn btn-floating btn-icon icon-cyan-web" onclick="if (!window.__cfRLUnblockHandlers) return false; facebookPopup()" title="Share this on Facebook" aria-label="Share this on Facebook" data-external="yes" data-cf-modified-e69f1cb2df34007c05554141-="">
+                                    <svg>
+                                        <use xlink:href="/index/assets/icons/icon-facebook.svg#facebookIcon"></use>
+                                    </svg>
+                                    <span class="sr-only">Share on Facebook</span>
+                                </button>
+                                <button type="button" class="btn btn-floating btn-icon icon-cyan-web" onclick="if (!window.__cfRLUnblockHandlers) return false; twitterPopup()" title="Share this on X" aria-label="Share this on X" data-external="yes" data-cf-modified-e69f1cb2df34007c05554141-="">
+                                    <svg>
+                                        <use xlink:href="/index/assets/icons/icon-x-twitter.svg#x-twitterIcon"></use>
+                                    </svg>
+                                    <span class="sr-only">Share on X</span>
+                                </button>
+                                <button type="button" class="btn btn-floating btn-icon icon-cyan-web" onclick="if (!window.__cfRLUnblockHandlers) return false; copyURL()" title="Copy link" aria-label="Copy link" data-cf-modified-e69f1cb2df34007c05554141-="">
+                                    <svg>
+                                        <use xlink:href="/index/assets/icons/icon-materialDesign-link.svg#materialDesign-linkIcon"></use>
+                                    </svg>
+                                    <span class="sr-only">Copy link</span>
+                                </button>
+                                <a href="https://static.heritage.org/index/data/2025/2025_indexofeconomicfreedom_data.xlsx" class="btn btn-floating btn-icon icon-cyan-web" title="Download Data" aria-label="Download Data" target="_blank" rel="noopener" role="button" download="2025_indexofeconomicfreedom_data.xlsx">
+                                    <svg>
+                                        <use xlink:href="/index/assets/icons/icon-materialDesign-download.svg#materialDesign-downloadIcon"></use>
+                                    </svg>
+                                    <span class="sr-only">Download data</span>
+                                </a>
+                            </div>
+
+                        </div>
+
+                        <!-- SELECT OPTION BOXES -->
+                        <div class="row justify-content-center no-gutters mt-5">
+
+                            <!-- SELECT YEAR -->
+                            <div class="col-md-auto col-sm-3 col-4 pr-md-0 pr-sm-3 pr-2">
+                                <div class="form-group index-pageForm mb-0">
+                                    <label for="yearsSelect">Select Year(s)</label>
+                                    <select id="yearsSelect" class="form-control" multiple aria-label="select years" style="height: 128px;">
+                                    </select>
+                                    <div class="form-check index-pageForm mt-2">
+                                        <input class="form-check-input" type="checkbox" value="" id="checkboxYears">
+                                        <label class="form-check-label" for="checkboxYears">All</label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- SELECT REGION -->
+                            <div class="col-md-auto col-sm-7 col-8 mx-md-3">
+                                <div class="form-group index-pageForm mb-0">
+                                    <label for="regionSelect">Select Region(s)</label>
+                                    <select id="regionSelect" class="form-control" multiple aria-label="Select Region" style="height: 128px;">
+                                        <option value="AM">Americas</option>
+                                        <option value="AP">Asia-Pacific</option>
+                                        <option value="E">Europe</option>
+                                        <option value="MENA">Middle East/North Africa</option>
+                                        <option value="SSA">Sub-Saharan Africa</option>
+                                    </select>
+                                    <div class="form-check index-pageForm mt-2">
+                                        <input class="form-check-input" type="checkbox" value="" id="checkboxRegions" checked>
+                                        <label class="form-check-label" for="checkboxRegions">All</label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- SELECT INDIVIDUAL COUNTRIES -->
+                            <div class="col-md-auto col-sm-10 col-12 mt-md-0 mt-4">
+                                <div class="form-group index-pageForm mb-0">
+                                    <label for="countrySelect">Select Countries</label>
+                                    <select class="form-control" id="countrySelect" multiple aria-label="Select Countries" style="height: 128px;"></select>
+                                    <div class="right" style="margin-top: 15px;">
+                                        <button id="submit" class="btn btn-cyan-web" type="submit">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- END SELECT OPTION BOXES -->
+
+                        <!-- ALL SCORES SEARCH RESULTS -->
+                        <div class="row mt-3 mb-md-5 mb-3">
+                            <div class="col text-center">
+                                <div id="allScoresSearchResults"><span id="rowCount">—</span> rows displayed</div>
+                            </div>
+                        </div>
+                        <!-- END ALL SCORES SEARCH RESULTS -->
+
+                        <!-- ALL SCORES TABLE -->
+                        <div class="row mb-5">
+                            <div class="col-12">
+                                <div class="table-container">
+                                    <div class="allScoresTable">
+                                        <table id="scoresTable">
+                                            <thead>
+                                                <tr>
+                                                    <th value="Name">Name
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-asc.svg"></img>
+                                                    </th>
+                                                    <th value="Year">Index<br>Year
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Overall">Overall<br>Score
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Property Rights">Property<br>Rights
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Government Integrity">Government<br>Integrity
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Judicial Effectiveness">Judicial<br>Effectiveness
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Tax Burden">Tax<br>Burden
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Government Spending">Government<br>Spending
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Fiscal Health">Fiscal<br>Health
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Business Freedom">Business<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Labor Freedom">Labor<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Monetary Freedom">Monetary<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Trade Freedom">Trade<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Investment Freedom">Investment<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                    <th value="Financial Freedom">Financial<br>Freedom
+                                                        <img class="sort-asc" src="/index/assets/media/images/sort-none.svg"></img>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody id="scoresTableBody"></tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END ALL SCORES TABLE -->
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END ALL SCORES SECTION -->
+
+        <!-- COMPARE COUNTRIES SECTION -->
+        <section class="article_dataviz-section my-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- HEADER -->
+                        <div class="row mb-4">
+                            <div class="col">
+                                <h2 class="index-pageHeader m-0">Compare Countries</h2>
+                                <hr class="solid heavy mt-0">
+                            </div>
+                        </div>
+
+                        <!-- CONTENT -->
+                        <div class="row mb-5">
+                            <div class="col">
+                                <div class="chartCompareCountriesModuleWrapper px-lg-5 px-md-4 px-3 py-4">
+
+                                    <div class="row">
+
+                                        <!-- COUNTRY SELECTOR -->
+                                        <div class="col-auto">
+                                            <div class="form-group index-pageForm">
+                                                <div>
+                                                    <label class="text-uppercase" for="countrySelectCompare">Add Country</label>
+                                                </div>
+                                                <div class="d-inline-flex">
+                                                    <select class="form-control mr-2" id="countrySelectCompare"></select>
+                                                    <button id="addCountry" class="btn btn-cyan-web" disabled>Add</button>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- CATEGORY SELECTOR -->
+                                        <div class="col-auto">
+                                            <div class="form-group index-pageForm">
+                                                <label class="text-uppercase" for="categorySelect">Select Category</label>
+                                                <select class="form-control" id="categorySelect"></select>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <!-- CHART SVG -->
+                                    <div class="row mt-4">
+                                        <div class="col">
+                                            <div id="chartCompareCountriesWrapper">
+                                                <svg id="chartCompareCountriesSVG"></svg>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- COUNTRY COMPARISON LEGEND -->
+                                    <div class="row mt-4">
+                                        <div class="col-auto">
+                                            <div id="countriesKey"></div>
+                                        </div>
+                                    </div>
+
+                                    <!-- DATA TOGGLE -->
+                                    <div class="row mt-3">
+                                        <div class="col-auto">
+                                            <div class="form-check index-pageForm mt-2">
+                                                <input class="form-check-input" type="checkbox" id="scales0to100">
+                                                <label class="form-check-label" for="scales0to100">Show Scores on 0-100 Scale</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END COMPARE COUNTRIES SECTION -->
+
+    </div>
+    <!-- END PAGE CONTENT -->
+
+    <!-- FOOTER -->
+    <footer class="global-footer pt-5 pb-3" id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+
+                    <!-- TOP BAR -->
+                    <div class="row justify-content-between mb-4">
+
+                        <!-- SECONDARY NAV -->
+                        <div class="col-md-6 mb-lg-0 mb-4">
+                            <div class="row">
+                                <div class="heritage-bell col-lg-2 col-md-2">
+                                    <i class="heritage-icon-heritage_bell" href="#"></i>
+                                </div>
+                                <nav class="d-flex flex-column secondary-navigation col-lg-10 col-md-10" id="#">
+                                    <nav class="nav-item"><a href="https://www.heritage.org/about-heritage/mission" target="_blank" rel="noopener">About Heritage</a></nav>
+                                    <nav class="nav-item"><a href="https://www.heritage.org/events" target="_blank" rel="noopener">Events</a></nav>
+                                    <nav class="nav-item"><a href="https://secured.heritage.org/renew/?utm_source=heritagefoundation&utm_medium=textlink&utm_campaign=donate&utm_content=heritage_org_renew_topnav" target="_blank" rel="noopener">Renew</a></nav>
+                                    <nav class="nav-item"><a href="https://secured.heritage.org/?utm_source=heritagefoundation&utm_medium=textlink&utm_campaign=donate&utm_content=heritage_org_donate_topnav" target="_blank" rel="noopener">Donate</a></nav>
+                                    <nav class="nav-item"><a href="https://www.heritage.org/press" target="_blank" rel="noopener">Press</a></nav>
+                                    <nav class="nav-item"><a href="https://www.heritage.org/contact" target="_blank" rel="noopener">Contact</a></nav>
+                                </nav>
+                            </div>
+                        </div>
+                        <!-- END SECONDARY NAV -->
+
+                        <!-- SUBSCRIBE -->
+                        <div class="col-md-6 my-md-0 my-2">
+                            <div class="mb-3">
+                                <label class="subscribe-title mb-3">Subscribe to email updates</label>
+                                <form action="#" data-form-email="" novalidate="">
+                                    <div class="row">
+                                        <div class="col-8 pr-0">
+                                            <input type="email" class="subscribe-email-input btn-block" placeholder="Enter email address" name="email" required="">
+                                        </div>
+                                        <div class="col-4 pl-0">
+                                            <button type="submit" class="subscribe-button btn btn-block" data-loading-text="Sending">
+                                                <span>Subscribe</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- END SUBSCRIBE -->
+
+                    </div>
+                    <!-- END TOP BAR -->
+
+                    <!-- BOTTOM BAR -->
+                    <div class="row align-items-center mb-4">
+
+                        <!-- PRIVACY/COPYRIGHT -->
+                        <div class="col-md-6 col-sm-8 col-7">
+                            <div class="row">
+                                <div class="heritage-bell col-lg-2 col-md-2 d-none d-md-block">
+                                    <i class="heritage-icon-heritage_bell" style="opacity: 0;"></i>
+                                </div>
+                                <div class="privacy-copyright d-flex align-items-center col-lg-10 col-sm-8 col-12" id="#">
+                                    <div class="row m-0">
+                                        <div class="privacy-copyright"><a href="https://www.heritage.org/article/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></div>
+                                        <div class="privacy-copyright"><a href="https://www.heritage.org/article/copyright-notice" target="_blank" rel="noopener">Copyright</a></div>
+                                        <div class="copyright-text">&copy; 2025, The Heritage Foundation</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END PRIVACY/COPYRIGHT -->
+
+                        <!-- SOCIAL -->
+                        <div class="col-md-6 col-sm-4 col-5">
+                            <div class="row align-items-center justify-content-end" style="margin-right: 0px;">
+                                <div class="privacy-copyright d-none d-lg-block">
+                                    <span>Follow Us</span>
+                                </div>
+                                <div class="social-circle ml-3">
+                                    <a href="https://twitter.com/heritage" class="twitter-x-icon-social_twitter-x" target="_blank" rel="noopener" title="Follow us on X" aria-label="Follow us on X" data-text="Heritage Twitter" data-external="yes"></a>
+                                </div>
+                                <div class="social-circle ml-3">
+                                    <a href="https://www.facebook.com/heritagefoundation" class="heritage-icon-social_facebook" target="_blank" rel="noopener" title="Follow us on Facebook" aria-label="Follow us on Facebook" data-text="Heritage Facebook" data-external="yes"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END SOCIAL -->
+
+                    </div>
+                    <!-- END BOTTOM BAR -->
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- END FOOTER -->
+
+    <!-- SCROLLTOP -->
+    <button type="button" class="scrollTop" id="scrollTop"></button>
+    <!-- END SCROLLTOP -->
+
+    <!-- BOOTSTRAP 4.6 CORE JS -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous" type="e69f1cb2df34007c05554141-text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous" type="e69f1cb2df34007c05554141-text/javascript"></script>
+
+    <!-- BOOTSTRAP-SELECT JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+
+    <!-- TEMPLATE UTILITIES -->
+    <script src="/index/assets/js/socmed-js.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+    <script src="/index/assets/js/jquery.thfsidebar.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+    <script src="/index/assets/js/scrolltop.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+
+    <!-- D3 LIBRARY -->
+    <script src="https://d3js.org/d3.v7.min.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+
+    <!-- INDEX OF ECONOMIC FREEDOM JS UTILITIES -->
+    <script src="/index/assets/js/ef-all-scores-page.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+    <script src="/index/assets/js/ef-compare-countries-page.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+    <script src="/index/assets/js/ef-fetch-json.js" type="e69f1cb2df34007c05554141-text/javascript"></script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e69f1cb2df34007c05554141-|49" defer></script></body>
+
+</html>
